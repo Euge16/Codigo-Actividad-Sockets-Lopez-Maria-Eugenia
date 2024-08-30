@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1725031400 source:c:\users\lop_m\onedrive\documentos\carpeta-codeblock\tp socket\cliente\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<winsock2.h>
+
